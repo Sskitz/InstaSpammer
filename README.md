@@ -3,7 +3,7 @@ Spam Instagram users Dms
 
 # requirements
 + You must have firefox installed and the gekodriver.exe file in the same folder
-+ You must be following the uer you want to spam
++ You must be following the user you want to spam
 + you must have python instaled
 + And finaly you must have an alt acc. dont use your main insta as it can get banned.
 + you can download gekodriver from the offical site https://github.com/mozilla/geckodriver/releases
