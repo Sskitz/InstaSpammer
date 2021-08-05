@@ -2,7 +2,7 @@
 Spam Instagram users Dms
 
 # requirements
-+ You must have firefox installed and the gekodriver.exe file in the same folder as the spammer.py
++ You must have firefox installed and the gekodriver.exe file in the same folder as the InstaSpammer.py
 + You must be following the user you want to spam
 + you must have python instaled
 + And finaly you must have an alt acc. dont use your main insta as it can get banned.
